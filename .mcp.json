@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "test-plan": {
+      "type": "http",
+      "url": "${TEST_PLAN_URL:-http://localhost:3000}/mcp"
+    }
+  }
+}

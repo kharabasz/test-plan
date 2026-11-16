@@ -1,0 +1,12 @@
+{
+  "name": "test-plan",
+  "version": "0.1.0",
+  "description": "Connects Claude to a local test plan server: read pass/fail summaries and failing tests, build the plan, and report test results over MCP.",
+  "author": {
+    "name": "kharabasz"
+  },
+  "homepage": "https://github.com/kharabasz/test-plan",
+  "repository": "https://github.com/kharabasz/test-plan",
+  "license": "MIT",
+  "keywords": ["testing", "test-plan", "test-results", "mcp", "qa"]
+}
